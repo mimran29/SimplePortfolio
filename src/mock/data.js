@@ -29,17 +29,17 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'Project1.JPG',
-    title: '',
-    info: '',
-    info2: '',
+    title: 'Counseil4U Mobile App',
+    info: 'Counseling Application For UNIMAS',
+    info2: 'FINAL YEAR PROJECT (FYP)',
     url: '',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'Project2.png',
-    title: '',
-    info: '',
+    title: 'KAMPUNG SYSTEM',
+    info: 'An offline system that help the Secretary of Kampung Siru Melayu',
     info2: '',
     url: '',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
