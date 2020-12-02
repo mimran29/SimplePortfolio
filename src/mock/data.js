@@ -18,10 +18,10 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'image.png',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  paragraphOne: 'From Kota Kinabalu, Sabah currently stay in Seri Kembangan, Selangor. Graduated in University Malaysia Sarawak with Bachelor of Computer Science and Information Technology (Software Engineering) ',
+  paragraphTwo: 'An Enthusiastic person in a right environment, work well with people and also under pressure. Believe in a good karma, Love to exchange opinions about stuff. Wanderlust',
+  paragraphThree: 'Below is ',
+  resume: 'https://drive.google.com/file/d/17VDgL_8aQex3Q8SU6podx1Iz0FjiTmO-/view', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
