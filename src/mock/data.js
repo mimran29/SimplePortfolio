@@ -20,8 +20,8 @@ export const aboutData = {
   img: 'image.png',
   paragraphOne: 'From Kota Kinabalu, Sabah currently stay in Seri Kembangan, Selangor. Graduated in University Malaysia Sarawak with Bachelor of Computer Science and Information Technology (Software Engineering) ',
   paragraphTwo: 'An Enthusiastic person in a right environment, work well with people and also under pressure. Believe in a good karma, Love to exchange opinions about stuff. Wanderlust',
-  paragraphThree: 'Below is ',
-  resume: 'https://drive.google.com/file/d/17VDgL_8aQex3Q8SU6podx1Iz0FjiTmO-/view', // if no resume, the button will not show up
+  paragraphThree: 'Below is Resume',
+  resume: 'https://docs.google.com/document/d/197HKRt7qw8N4qBh1eY_3bCdwnGtsoCnjN7NGbzZK6q4/edit?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -78,12 +78,12 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/mohd-imran-cyrinus-0aa52318b/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/mimran29',
     },
   ],
 };
